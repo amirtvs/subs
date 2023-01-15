@@ -1,2 +1,0 @@
-vless://1f4609f1-c04a-4556-a58c-f82177016f13@cdn.walletfa.click:443?type=tcp&security=tls&sni=cdn.walletfa.click#%40nuclearvpn%20-%20vless%2Btcp%2Btls
-vless://7d872add-3e3c-433e-bc8c-d68ba8bb27c1@cdn.walletfa.click:443?type=tcp&security=tls&sni=cdn.walletfa.click#%40nuclearvpn%20-%20vless%2Btcp%2Btls
